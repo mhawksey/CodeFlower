@@ -1,0 +1,290 @@
+
+{
+  "status": "ok",
+  "name": "Hypotheses",
+  "size": 12,
+  "children": [
+    {
+      "name": "A \u2013\u00a0Performance",
+      "id": 578,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-a-performance\/",
+      "excerpt": "Use of OER leads to improvement in student performance and satisfaction (OER improve student performance\/satisfaction)\r\n\r\nSummary:  Educators show strong belief that OER improve student performance and satisfaction, learners less so. Where comparative data points exist there is some evidence that performance is improved by OER use. MOOC completion rates are low but satisfaction of \u2018completers\u2019 is high.",
+      "Status": "amber",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "B \u2013\u00a0Openness",
+      "id": 579,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-b-openness\/",
+      "excerpt": "The Open Aspect of OER creates different usage and adoption patterns than other online resources (People use OER differently from other online materials)\r\n\r\nSummary: Understanding of open licenses is growing, and while many educators state that open licensing is important, this does not always transfer into their own practice. For learners the presence of an open licence is not seen as important. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "C \u2013\u00a0Access",
+      "id": 580,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-c-access\/",
+      "excerpt": "Open Education models lead to more equitable access to education, serving a broader base of learners than traditional education (OER widen participation in education)\r\n\r\nSummary: There is mixed evidence relating to this hypothesis. Many OER and MOOC users tend to have existing higher education qualifications, suggesting they are best suited to experienced learners. Some projects are reporting broader demographics, and open textbooks are encouraging students to read core texts in greater numbers. It appears that open educational resources and open education models do not guarantee widened access to education but, all the same, we are uncovering evidence that they increase educational inclusion for some formal and informal learners. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 4,
+          "children": [
+            {
+              "name": "Infographic: Open Source Textbooks",
+              "id": 611,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/infographicostexts\/",
+              "excerpt": "Onlineschools.org produced an infographic which claimed that a 50 student algebra class \u00a0would save $5,400 per annum by switching to open textbooks. \u00a0For a 100 person calculus class the figure is $13,200. http:\/\/www.the-digital-reader.com\/2012\/08\/16\/open-source-textbooks-infographic"
+            },
+            {
+              "name": "Student savings for OER textbooks estimated at up to 80%",
+              "id": 608,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/student-savings-for-oer-textbooks-estimated-at-up-to-80\/",
+              "excerpt": "An infographic from onlinecolleges.net claims that the average cost of using OER textbooks is between $17.37 and $63.95 compared with $67.86 and $175.48 for traditional textbook options (new, secondhand, rented). This means that savings for [&hellip;]"
+            },
+            {
+              "name": "Survey of students at Funda\u00e7\u00e3o Getulio Varga Online",
+              "id": 606,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/survey-of-students-at-fundacao-getulio-varga-online\/",
+              "excerpt": "Funda\u00e7\u00e3o Getulio Vargas is the first Brazillian school to join OCWC. They offer 37 courses across knowledge areas. During the first half of 2011 more than 3 million people visited the main courses page and [&hellip;]"
+            },
+            {
+              "name": "Open Textbooks Improve Access to Educational Materials",
+              "id": 599,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/open-textbooks-improve-access-to-educational-materials\/",
+              "excerpt": "A 2010 pilot study in Virginia using Flat World Knowledge textbooks with 991 students across 9 courses found that \u201cwhile students had free and open access to the online textbook without registering, only 93 % [&hellip;]"
+            }
+          ]
+        },
+        {
+          "name": "Negative -ve",
+          "size": 4,
+          "children": [
+            {
+              "name": "OpenLearn Survey (July 2013)",
+              "id": 616,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/openlearn-survey-july-2013\/",
+              "excerpt": "Findings from the 2013 OpenLearn survey (collection point 1 July 2013) indicate that OpenLearn OER are not really widening access to education. OER users are often already well-qualified and tend to be employed. Only 6% [&hellip;]",
+              "Polarity": "-1"
+            },
+            {
+              "name": "Distance Education special issue on &#8216;OERs and Social Inclusion&#8217;",
+              "id": 614,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/distance-education-special-issue-on-oers-and-social-inclusion\/",
+              "excerpt": "The journal Distance Education\u00a0(Volume 33, Issue 2, 2012) published a special issue on OER and social inclusion. \u00a0In it, Andy Lane argues that to it is not yet possible to measure how OER are truly [&hellip;]",
+              "Polarity": "-1"
+            },
+            {
+              "name": "Offer of university credit for MOOC course has no takers",
+              "id": 604,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/offer-of-university-credit-for-mooc-course-has-no-takers\/",
+              "excerpt": "The Chronicle of Higher Education reported that when Colorado State University-Global Campus became the first college in the United States to grant credit to students who passed a MOOC students showed no interest despite the [&hellip;]",
+              "Polarity": "-1"
+            },
+            {
+              "name": "Open online courses completion rate approximately 7%",
+              "id": 601,
+              "link": "http:\/\/sites.hawksey.info\/oerhub\/evidence\/teachers-without-borders\/",
+              "excerpt": "One study of academic social networks found that the average MOOC completion rate across 29 courses was just 6.8%. With completion rates this low it is arguable that learning goals for the courses have not [&hellip;]",
+              "Polarity": "-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D \u2013\u00a0Retention",
+      "id": 581,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-d-retention\/",
+      "excerpt": "Use of OER is an effective method for improving retention for at-risk students (OER can help at-risk learners to finish their studies)\r\n\r\nSummary: Evidence shows that in purposefully targeted projects OER based material can improve retention. It can also be used in a pre-emptive fashion to help learners make informed study choices. There are a number of methodological issues with this hypothesis and in Year 2 detailed analysis of comparative student data has been planned. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "E \u2013\u00a0Reflection",
+      "id": 582,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-e-reflection\/",
+      "excerpt": "Use of OER leads to critical reflection by educators, with evidence of improvement in their practice (OER use leads educators to reflect on their practice)\r\n\r\nSummary: There is quite strong evidence that exposure to, or the use of, OER in teaching does cause educators to reflect on their own teaching practice. However, this may be a result of foregrounding teaching in a project, rather than an explicit characteristic of OER themselves. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "F \u2013\u00a0Finance",
+      "id": 583,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-f-finance\/",
+      "excerpt": "OER adoption at an institutional level leads to financial benefits for students and\/or institutions (OER adoption brings financial benefits for students\/institutions)\r\n\r\nSummary: An area of much interest, the open textbook movement has demonstrated considerable savings are possible for students with no detrimental effect on learning outcomes. The evidence for institutional savings is not as strong, but there are some examples of purchasing costs being reduced.",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "G \u2013\u00a0Indicators",
+      "id": 584,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-g-indicators\/",
+      "excerpt": "Informal learners use a variety of indicators when selecting OER (Informal learners use a variety of indicators)\r\n\r\nSummary: Trust is perceived as a significant factor in selecting a resource, as are possible indicators of quality, such as number of downloads. However, other factors such as ease of download and the presence of learning outcomes are deemed as important. Users seem to be combining indicators that suggest quality and also those that facilitate their own use of the resource. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "H \u2013\u00a0Support",
+      "id": 585,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-h-support\/",
+      "excerpt": "Informal learners adopt a variety of techniques to compensate for the lack of formal support, which can be supported in open courses (Informal learners develop their own forms of study support)\r\n\r\nSummary: Informal learners make some use of social networks to support study, but formal learners make use of a wider range of support techniques. This suggests that the learning support techniques in formal education are utilised with OER also, but informal learners tend to consume resources. With MOOCs, experienced learners often make use of social media and their own networks, but these can be intimidating and confusing for inexperienced learners. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "I \u2013\u00a0Transition",
+      "id": 586,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-i-transition\/",
+      "excerpt": "Open education acts as a bridge to formal education, and is complementary, not competitive, with it (Open education acts as a bridge to formal education)\r\n\r\nSummary:  Students can use OER to make informed choices about further study, and when OER is closely aligned with courses and an institution, it can act as an effective recruitment tool, encouraging learners to transition from informal to formal study. Increasingly formal learners are also using OER to supplement their education. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "J \u2013\u00a0Policy",
+      "id": 587,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-j-policy\/",
+      "excerpt": "Participation in OER pilots and programs leads to policy change at an institutional level (OER use encourages institutions to change their policies)\r\n\r\nSummary: OER policy can be seen as the next major development in the OER community, with the establishment of the Creative Commons Open Policy Network. While there are numerous top-down initiatives to drive OER adoption (especially with regards to open textbooks), examples of bottom-up policy adoption are rarer. There are some examples, particularly amongst community colleges where participation in OER projects has led to the formal adoption of an OER policy.",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "K \u2013\u00a0Assessment",
+      "id": 588,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/hypothesis-k-assessment\/",
+      "excerpt": "Informal means of assessment are motivators to learning with OER (Informal assessments motivate learners using OER)\r\n\r\nSummary:  The use of badges to reward informal learning is influencing the design of MOOCs and providing a mechanism for assessing OER use. Evidence of how important these are for learners is lacking at the moment. The high attrition rates in MOOCs makes the value of badges difficult to isolate. Analytic based models are also gaining currency. ",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Unassigned",
+      "id": 678,
+      "link": "http:\/\/sites.hawksey.info\/oerhub\/hypothesis\/unnassigned\/",
+      "excerpt": "",
+      "Status": "",
+      "children": [
+        {
+          "name": "Positive +ve",
+          "size": 0,
+          "children": []
+        },
+        {
+          "name": "Negative -ve",
+          "size": 0,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
